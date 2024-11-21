@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://zanejachik896.github.io/zanejachik896_github_io_zp528_11.txt
+Sitemap: https://zanejachik896.github.io/zanejachik896_github_io_zp528_16.txt
+Sitemap: https://zanejachik896.github.io/zanejachik896_github_io_zp528_20.txt
+Sitemap: https://zanejachik896.github.io/zanejachik896_github_io_zp528_25.txt
+Sitemap: https://zanejachik896.github.io/zanejachik896_github_io_zp528_4.txt
+Sitemap: https://zanejachik896.github.io/zanejachik896_github_io_zp528_9.txt
